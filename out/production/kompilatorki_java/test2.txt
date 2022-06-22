@@ -1,0 +1,17 @@
+public class javaTestOutput()
+{
+    fun main(){
+        var x:Int = 0
+        for (i in 0..10) {
+                println(i)
+            }
+        while(x==0){
+            println(x)
+            x--
+        }
+
+        do{
+            println(x)
+        }while(x==0)
+    }
+}

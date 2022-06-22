@@ -1,0 +1,12 @@
+public class javaTestOutput()
+{
+    fun main(){
+        var x :Int = 3
+        var y :Int = 2
+        if(y==x){
+            println(x)
+        }else{
+            println(y)
+        }}
+
+}

@@ -1,0 +1,6 @@
+public class javaTestOutput()
+{
+    fun main(){
+        public class javaTestOutput(){}
+    }
+}
